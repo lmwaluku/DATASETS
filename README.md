@@ -1,7 +1,7 @@
 # Open Datasets
-*** for educational purposes only ***
-<hr>
-<blocklquote>
+<i>for educational purposes only</i>
+<hr align="50%">
+<blockquote>
 The datasets have been gathered from variety of sources when i was learning Machine Learning in Python.
-</blocklquote>
+</blockquote>
 You are welcome to use the datasets as you please.
