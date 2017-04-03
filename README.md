@@ -1,6 +1,5 @@
 # Open Datasets
 <i>for educational purposes only</i>
-<hr align="50%">
 <blockquote>
 The datasets have been gathered from variety of sources when i was learning Machine Learning in Python.
 </blockquote>
